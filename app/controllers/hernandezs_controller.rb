@@ -1,4 +1,5 @@
 class HernandezsController < ApplicationController
   def index 
-    message json: {message: "hello!"}
+    render json: {message: "hello!"}
+  end
 end
