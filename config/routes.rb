@@ -6,4 +6,6 @@ Rails.application.routes.draw do
     get "/kellycontroller" => "this_is_a_controller#index"
     get "/peterxjang" => "peterxjang#index"
   end
+
+  get "/examples" => "examples_martinez#index"
 end
