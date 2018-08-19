@@ -1,2 +1,0 @@
-class ThisIsAControllerController < ApplicationController
-end
