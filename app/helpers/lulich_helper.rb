@@ -1,0 +1,2 @@
+module LulichHelper
+end
