@@ -3,5 +3,6 @@ Rails.application.routes.draw do
   namespace :api do
     get "/pages" => "pages#index"
     get "/branch" => "ngo#index"
+    get "/peterxjang" => "peterxjang#index"
   end
 end
