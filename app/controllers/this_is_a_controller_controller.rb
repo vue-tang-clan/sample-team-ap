@@ -1,0 +1,2 @@
+class ThisIsAControllerController < ApplicationController
+end
